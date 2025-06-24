@@ -32,6 +32,11 @@ body{
     border-radius: 50px;
     border: 2px solid;
     margin-bottom: 20px;
+    transition: box-shadow 0.4s ease;
+}
+
+.tarjeta img:hover {
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
 }
 
 hr {
