@@ -30,6 +30,7 @@ La tarjeta incluye:
 │   └── style.css
 └── images/
     └── fotopersonal.jpg
+    └── eldiego.jpg
 ```
 
 - Uso de etiquetas básicas de HTML (`<html>`, `<head>`, `<body>`, `<h1>`, `<p>`, `<img>`, `<div>`)
