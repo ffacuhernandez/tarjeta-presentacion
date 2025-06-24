@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: linear-gradient(to bottom, #f6e8d7, #e2cfc3);
+    font-family: 'Roboto', sans-serif;
+    height: 100vh;
+}
+
+.tarjeta{
+    background: linear-gradient(to bottom, #f4b6b6, #c85a5a);
+    text-align: center;
+    border: 2px solid;
+    border-radius: 15px;
+}
+
+.tarjeta img{
+    width: 800px;
+    height: 500px;
+    border-radius: 50px;
+    border: 2px solid;
+    margin-bottom: 20px;
+}
