@@ -1,6 +1,6 @@
 # 🧾 TP 1 - Tarjeta de Presentación Personal
 
-Este repositorio contiene el primer trabajo práctico de la materia, donde se desarrolla una tarjeta de presentación personal utilizando HTML y CSS.
+Este repositorio contiene el primer trabajo práctico del curso, donde se desarrolla una tarjeta de presentación personal utilizando HTML y CSS.
 
 ## 📌 Objetivo
 
@@ -23,13 +23,14 @@ La tarjeta incluye:
 - Una imagen o avatar
 
 ## 📂 Estructura del proyecto
+```
+📁 TP1 TARJETA PRESENTACION HERNANDEZ/
 ├── index.html
 ├── css/
-│ └── style.css
+│   └── style.css
 └── images/
-└── fotopersonal.jpg
-
-## ✅ Requisitos cumplidos
+    └── fotopersonal.jpg
+```
 
 - Uso de etiquetas básicas de HTML (`<html>`, `<head>`, `<body>`, `<h1>`, `<p>`, `<img>`, `<div>`)
 - Estilos separados en un archivo `style.css` externo
