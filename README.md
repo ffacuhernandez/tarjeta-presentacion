@@ -1,6 +1,7 @@
 # 🧾 TP 1 - Tarjeta de Presentación Personal
 
 Este repositorio contiene el primer trabajo práctico del curso, donde se desarrolla una tarjeta de presentación personal utilizando HTML y CSS.
+🔗 **[Ver página online](https://ffacuhernandez.github.io/tarjeta-presentacion/)**
 
 ## 📌 Objetivo
 
